@@ -10,7 +10,7 @@ import javax.persistence.Table;
 import javax.validation.constraints.Size;
 
 /**
- * @author Ramesh Fadatare
+ * @author Vinay Kumar
  *
  */
 
